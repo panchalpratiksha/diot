@@ -1,3 +1,3 @@
-print("hello")
-console.log("pratiksjha")
+console.log("hello")
+console.log("pratiksha")
 
